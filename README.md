@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @akar5h "Akarsh" 
+- 💼 I work as Data Scientist @ Apporchid 
 - 👀 I’m interested in NLP, Deep Learning and Data Science. 
 - 🌱 I’m currently learning NLP based problems
 - 📫 How to reach me ? Contact me on : akarshgajbhiye@gmail.com
