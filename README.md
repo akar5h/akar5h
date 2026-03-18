@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @akar5h "Akarsh" 
-- 💼 I work as Data Scientist @ Apporchid 
-- 👀 I’m interested in NLP, Deep Learning and Data Science. 
-- 🌱 I’m currently learning NLP based problems
-- 📫 How to reach me ? Contact me on : akarshgajbhiye@gmail.com
+## Akarsh Gajbhiye — AI Engineer
 
-<!---
-akar5h/akar5h is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Building production-grade agentic AI systems, RAG pipelines, and 
+LLM-powered backends.
+
+**Currently:** Independent AI Consultant — fractional AI lead for 
+early-stage startups, AI architecture audits, agency subcontracting
+
+**Stack:** Python · FastAPI · LangGraph · DSPy · PostgreSQL · 
+MongoDB · Redis · AWS · Docker
+
+**What I build:**
+- Agentic workflows and multi-agent orchestration (LangGraph)
+- RAG pipelines with grounded retrieval and structured outputs
+- High-throughput async backends for AI-heavy workloads
+- AI security & adversarial robustness (red teaming, PyRIT, Promptfoo)
+
+**Past:** Founding Engineer @ CoreWorks AI · Senior SWE @ Blitz 
+(50K+ orders/day dispatch systems) · ML Engineer @ AppOrchid
+
+📍 Bangalore, India
+🌐 akarshgajbhiye.com
+📬 akarshgajbhiye@gmail.com
